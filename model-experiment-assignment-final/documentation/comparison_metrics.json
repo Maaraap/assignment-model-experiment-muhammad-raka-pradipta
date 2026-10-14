@@ -1,0 +1,16 @@
+[
+  {
+    "Model":"TF-IDF + Logistic Regression",
+    "Accuracy":0.6904761905,
+    "Precision":0.5806451613,
+    "Recall":1.0,
+    "F1-Score":0.7346938776
+  },
+  {
+    "Model":"Gemini API",
+    "Accuracy":1.0,
+    "Precision":1.0,
+    "Recall":1.0,
+    "F1-Score":1.0
+  }
+]

@@ -1,0 +1,43 @@
+review_id,product_name,review_text,sentiment,predicted_sentiment
+2,Case HP,"Puas banget belanja disini, proses cepat dan barang aman.",positif,positif
+3,Rice Cooker,"Terima kasih seller, barangnya awet dan sesuai deskripsi.",positif,positif
+5,Headset Bluetooth,"Terima kasih seller, barangnya awet dan sesuai deskripsi.",positif,positif
+16,Sepatu Sneakers,"Pengiriman lambat sekali, sudah dua minggu belum sampai.",negatif,negatif
+17,Headset Bluetooth,"Pengiriman lambat sekali, sudah dua minggu belum sampai.",negatif,negatif
+18,Jaket Hoodie,"Puas banget belanja disini, proses cepat dan barang aman.",positif,positif
+24,Kaos Polos,Respon penjual lambat dan terkesan tidak peduli komplain.,negatif,negatif
+26,Botol Minum,"Pengiriman lambat sekali, sudah dua minggu belum sampai.",negatif,negatif
+31,Case HP,"Ukuran dan warna berbeda dari pesanan, sangat kecewa.",negatif,negatif
+36,Rice Cooker,Respon penjual lambat dan terkesan tidak peduli komplain.,negatif,negatif
+37,Lampu LED,"Pelayanan ramah dan responsif, barang sampai lebih cepat dari estimasi.",positif,positif
+43,Kemeja Flanel,"Ukuran dan warna berbeda dari pesanan, sangat kecewa.",negatif,negatif
+46,Lampu LED,"Pengiriman lambat sekali, sudah dua minggu belum sampai.",negatif,negatif
+50,Charger Cepat,Respon penjual lambat dan terkesan tidak peduli komplain.,negatif,negatif
+58,Rice Cooker,"Pelayanan ramah dan responsif, barang sampai lebih cepat dari estimasi.",positif,positif
+63,Kaos Polos,"Pengiriman lambat sekali, sudah dua minggu belum sampai.",negatif,negatif
+66,Blender Mini,Komplain tidak ditanggapi sama sekali oleh penjual.,negatif,negatif
+71,Botol Minum,Komplain tidak ditanggapi sama sekali oleh penjual.,negatif,negatif
+77,Tas Ransel,"Pengiriman lambat sekali, sudah dua minggu belum sampai.",negatif,negatif
+78,Botol Minum,"Ukuran dan warna berbeda dari pesanan, sangat kecewa.",negatif,negatif
+82,Botol Minum,"Ukuran dan warna berbeda dari pesanan, sangat kecewa.",negatif,negatif
+85,Kaos Polos,Respon penjual lambat dan terkesan tidak peduli komplain.,negatif,negatif
+86,Lampu LED,"Pelayanan ramah dan responsif, barang sampai lebih cepat dari estimasi.",positif,positif
+89,Case HP,"Harga worth it dengan kualitas yang didapat, sangat puas.",positif,positif
+99,Tas Ransel,"Pelayanan ramah dan responsif, barang sampai lebih cepat dari estimasi.",positif,positif
+106,Botol Minum,"Terima kasih seller, barangnya awet dan sesuai deskripsi.",positif,positif
+113,Charger Cepat,"Pengiriman lambat sekali, sudah dua minggu belum sampai.",negatif,negatif
+115,Kemeja Flanel,Komplain tidak ditanggapi sama sekali oleh penjual.,negatif,negatif
+117,Kursi Lipat,"Harga worth it dengan kualitas yang didapat, sangat puas.",positif,positif
+124,Botol Minum,"Puas banget belanja disini, proses cepat dan barang aman.",positif,positif
+127,Sandal Jepit,"Ukuran dan warna berbeda dari pesanan, sangat kecewa.",negatif,negatif
+131,Tas Ransel,"Terima kasih seller, barangnya awet dan sesuai deskripsi.",positif,positif
+135,Tas Ransel,"Puas banget belanja disini, proses cepat dan barang aman.",positif,positif
+139,Case HP,Respon penjual lambat dan terkesan tidak peduli komplain.,negatif,negatif
+156,Case HP,"Ukuran dan warna berbeda dari pesanan, sangat kecewa.",negatif,negatif
+163,Jaket Hoodie,"Pelayanan ramah dan responsif, barang sampai lebih cepat dari estimasi.",positif,positif
+164,Kemeja Flanel,"Pelayanan ramah dan responsif, barang sampai lebih cepat dari estimasi.",positif,positif
+173,Tas Ransel,Respon penjual lambat dan terkesan tidak peduli komplain.,negatif,negatif
+184,Headset Bluetooth,Respon penjual lambat dan terkesan tidak peduli komplain.,negatif,negatif
+189,Jaket Hoodie,"Pelayanan ramah dan responsif, barang sampai lebih cepat dari estimasi.",positif,positif
+191,Kemeja Flanel,"Pelayanan ramah dan responsif, barang sampai lebih cepat dari estimasi.",positif,positif
+197,Charger Cepat,"Pengiriman lambat sekali, sudah dua minggu belum sampai.",negatif,negatif
